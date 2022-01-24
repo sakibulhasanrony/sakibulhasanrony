@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is Sakibul Hasan RoNy</h1>
 <h3 align="center">A guy who is trying to figure out stuffs!!</h3>
 
-- 🌱 I’m currently learning **Python, Dart and Assembly language**
+- 🌱 I’m currently learning **Python, Dart and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakibulhasanrony](https://github.com/sakibulhasanrony)
 
-- 📫 How to reach me **sakibulhasanr16@gmail.com**
+- 📫 How to reach me **sakibulrony13877@gmail.com**
 
 - 📄 Know about my experiences [https://sites.google.com/view/sakibrony/home](https://sites.google.com/view/sakibrony/home)
 
